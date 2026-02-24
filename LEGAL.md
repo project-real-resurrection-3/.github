@@ -11,12 +11,9 @@ Community-driven continuation of Real Racing 3 after EA server shutdown
 
 ---
 
-## 🔖 Quick Links
+## 🔖 About This Document
 
-This document consolidates legal information for both the **modified APK** and **community servers**:
-
-- **[APK Legal Notice (Gitea)](https://gitea.ssfdre38.tech/ssfdre38/rr3-apk/src/branch/v14/LEGAL.md)** - Full legal documentation for game client modifications (50KB, comprehensive analysis)
-- **[Server Legal Notice (Gitea)](https://gitea.ssfdre38.tech/ssfdre38/RR3CommunityServer/src/branch/main/LEGAL.md)** - Full legal documentation for server implementation (30KB, detailed precedents)
+This document consolidates legal information for both the **modified APK** and **community servers**. This is a summary document; comprehensive legal analysis (80KB total) is maintained in private development repositories.
 
 ---
 
@@ -248,35 +245,29 @@ Our legal position compared to landmark precedents:
 
 ---
 
-## 📚 Full Legal Documentation
+## 📚 Comprehensive Legal Documentation
 
-**For comprehensive legal analysis:**
+**Full legal analysis is maintained in private development repositories** for detailed reference.
 
-### APK Modifications
-📄 **[Full APK Legal Document (Gitea)](https://gitea.ssfdre38.tech/ssfdre38/rr3-apk/src/branch/v14/LEGAL.md)**
+### What Full Documentation Contains:
 
-**Covers:**
+**APK Modifications (50KB comprehensive document):**
 - Detailed case law analysis (Sega, Sony, Lexmark, Chamberlain)
 - Reverse engineering methodology and justification
 - Four-factor fair use analysis
 - APK patching techniques and legal basis
 - Geographic jurisdiction analysis (US, EU, UAE)
 - Right to repair and digital preservation
-- 50KB comprehensive legal document
 
-### Server Implementation
-📄 **[Full Server Legal Document (Gitea)](https://gitea.ssfdre38.tech/ssfdre38/RR3CommunityServer/src/branch/main/LEGAL.md)**
-
-**Covers:**
+**Server Implementation (30KB detailed document):**
 - Google v. Oracle Supreme Court analysis
 - Clean-room implementation methodology
 - EU Software Directive Article 6 protections
 - Network protocol reverse engineering legality
 - Four-factor fair use analysis
 - International treaty protections (WIPO, Berne, TRIPS)
-- 30KB detailed legal analysis
 
-**These documents contain:**
+**Combined documentation includes:**
 - Complete case citations with links
 - Line-by-line fair use analysis
 - International jurisdiction coverage

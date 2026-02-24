@@ -75,9 +75,7 @@ Go to: [**Releases Page**](https://github.com/Project-Real-Resurrection-3/rr3-re
 
 ### 📄 Legal Documentation
 
-- **[Legal Notice (GitHub)](https://github.com/Project-Real-Resurrection-3/.github/blob/main/LEGAL.md)** - Comprehensive legal documentation for APK and server
-- **[Full APK Legal (Gitea)](https://gitea.ssfdre38.tech/ssfdre38/rr3-apk/src/branch/v14/LEGAL.md)** - Complete 50KB APK modification analysis
-- **[Full Server Legal (Gitea)](https://gitea.ssfdre38.tech/ssfdre38/RR3CommunityServer/src/branch/main/LEGAL.md)** - Complete 30KB server implementation analysis
+- **[Legal Notice (GitHub)](https://github.com/Project-Real-Resurrection-3/.github/blob/main/LEGAL.md)** - Comprehensive legal documentation for APK and server (summary + full analysis available in development repositories)
 
 ### Key Points
 
@@ -156,11 +154,11 @@ Interested in helping?
 
 This project operates under specific legal terms. **Please read:**
 
-- **[LEGAL.md](https://github.com/Project-Real-Resurrection-3/.github/blob/main/LEGAL.md)** - Primary legal documentation (GitHub)
-- [Full APK Legal Analysis](https://gitea.ssfdre38.tech/ssfdre38/rr3-apk/src/branch/v14/LEGAL.md) - Detailed APK legal analysis (Gitea, 50KB)
-- [Full Server Legal Analysis](https://gitea.ssfdre38.tech/ssfdre38/RR3CommunityServer/src/branch/main/LEGAL.md) - Detailed server legal analysis (Gitea, 30KB)
+- **[LEGAL.md](https://github.com/Project-Real-Resurrection-3/.github/blob/main/LEGAL.md)** - Comprehensive legal documentation (GitHub)
 
 By downloading or using this software, you agree to these terms.
+
+**Note:** Full 80KB legal analysis (APK modifications + server implementation) is maintained in private development repositories with detailed case law citations, methodology documentation, and jurisdiction analysis.
 
 ---
 
