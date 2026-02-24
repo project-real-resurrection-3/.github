@@ -21,7 +21,7 @@ This document consolidates legal information for both the **modified APK** and *
 
 ### What This Project Does
 
-**Project: Real Resurrection 3** is a community effort to preserve Real Racing 3 functionality after Electronic Arts shut down their servers in 2024. This project consists of:
+**Project: Real Resurrection 3** is a community effort to preserve Real Racing 3 functionality after Electronic Arts shut down their servers in 2026. This project consists of:
 
 1. **Modified APK** - Patches game client to connect to community servers
 2. **Community Servers** - Clean-room server implementation from network traffic analysis
@@ -35,7 +35,7 @@ This project is protected under **multiple layers** of legal precedent:
 - **Google LLC v. Oracle America (2021)** - Supreme Court ruled API reimplementation is fair use
 - **Sega v. Accolade (1992)** - Reverse engineering for interoperability is protected
 - **Sony v. Connectix (2000)** - Clean-room emulation is legal
-- **DMCA Section 1201 Exceptions** - Abandoned online games (renewed 2024)
+- **DMCA Section 1201 Exceptions** - Abandoned online games (renewed 2026)
 
 #### ✅ European Union (27 Member States)
 
@@ -120,7 +120,7 @@ Our legal position compared to landmark precedents:
 
 ### Why This Matters
 
-**Real Racing 3 was shut down by EA in 2024:**
+**Real Racing 3 was shut down by EA in 2026:**
 - Players spent **$100s to $1000s** on in-game purchases
 - Thousands of hours of progress and unlocked content
 - EA provided **no refunds** and **no offline mode**
