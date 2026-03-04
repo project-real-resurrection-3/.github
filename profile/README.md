@@ -16,7 +16,7 @@
 
 ## 🎮 What is This?
 
-**Real Racing 3** by Electronic Arts officially shut down in 2024. **Project: Real Resurrection 3** is a community effort to preserve and continue the game through:
+**Real Racing 3** by Electronic Arts officially shut down on March 20, 2026. **Project: Real Resurrection 3** is a community effort to preserve and continue the game through:
 
 - 🖥️ **Custom community servers** (replacing EA's shutdown servers)
 - 📱 **Modified APK** with server selection and OTA updates
